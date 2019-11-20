@@ -1,11 +1,17 @@
-html, body {
+html{
+	background-color: green;
+	height: 100vh;
+}
+
+body {
 	width: 100%;
-	height: 50vh;
+	height: 100%;
 	background-color: yellow ;
  }
   #c678d8ac-3c4b-4187-928c-97b79ad53c68{
 	display: flex;
    justify-content: center;
    align-items: center;
+   width: 100%;
 
   }
